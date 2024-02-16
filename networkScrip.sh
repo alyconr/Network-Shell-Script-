@@ -12,3 +12,11 @@ ping -c 4 www.google.com
 
 echo "-------------------------"
 
+# Display Network Interfaces and Ip Addreses
+
+echo "2. Displaying Network Interfaces and Ip Addresses"
+ipconfig
+echo "-------------------------"
+
+
+
