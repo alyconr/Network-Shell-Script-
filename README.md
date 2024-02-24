@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="logo.png" alt="logo" width="140" height="auto"  border-radius="75"  />
+<img src="logo.png" alt="logo" width="140" height="auto" style="border-radius:50%"   />
 <br/>
 <h3><b>NEWTORK SCRIPT PROJECT</b>
 
